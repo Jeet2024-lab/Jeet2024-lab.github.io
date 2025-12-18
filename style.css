@@ -11,8 +11,7 @@ nav  {
     height: 50px;
     width: 100%;
     background-color: black;
-  border-radius: 10px ;
-
+    border-radius: 10px;
 }
 
 nav a {
@@ -20,6 +19,7 @@ nav a {
       color: white;
       align-content: center;
 }
+
 h1{
     color: brown;
 }
